@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<jardesc>
+    <jar path="/Users/bob/Dropbox/Universita&#768;/SPD/SPDWorkspace/JGA.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/JGA/descriptor.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=JGA/src&lt;{JoclGraphAlgorithms.java[JoclGraphAlgorithms" manifestLocation="/JGA/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=JGA/src"/>
+        <file path="/JGA/.classpath"/>
+        <file path="/JGA/.DS_Store"/>
+        <file path="/JGA/JOCL-structs-0.0.1a-alpha.jar"/>
+        <folder path="/JGA/kernels"/>
+        <file path="/JGA/.project"/>
+        <file path="/JGA/jopt-simple-4.5-javadoc.jar"/>
+        <file path="/JGA/USA-road-d.CAL.ser"/>
+    </selectedElements>
+</jardesc>
